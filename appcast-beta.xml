@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>Shuki Beta</title>
     <link>https://zxc123456616.github.io/shuki-releases/appcast-beta.xml</link>
     <description>Shuki beta channel updates</description>
-  </channel>
+  <item>
+      <title>v0.2.2</title>
+      <sparkle:releaseNotesLink>https://zxc123456616.github.io/shuki-releases/release-notes/0.2.2.html</sparkle:releaseNotesLink>
+      <pubDate>Fri, 03 Apr 2026 14:46:45 +0000</pubDate>
+      <sparkle:channel>beta</sparkle:channel>
+      <enclosure url="https://github.com/zxc123456616/shuki-releases/releases/download/v0.2.2/Shuki-0.2.2.dmg" sparkle:version="134" sparkle:shortVersionString="0.2.2" sparkle:edSignature="sparkle:edSignature=zZlZ+BGCEBpCVhJL+wUazyeQk65nKQHvHa2kWDdZ3hlxlntqNWHnQuZS0Dfv6/ev5K6yGQGTxnMurm+Qrcw7Ag== length=16643494" length="16643494" type="application/octet-stream" />
+    </item></channel>
 </rss>
