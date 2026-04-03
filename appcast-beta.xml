@@ -7,6 +7,12 @@
   <item>
       <title>v0.2.2</title>
       <sparkle:releaseNotesLink>https://zxc123456616.github.io/shuki-releases/release-notes/0.2.2.html</sparkle:releaseNotesLink>
+      <pubDate>Fri, 03 Apr 2026 14:59:16 +0000</pubDate>
+      <sparkle:channel>beta</sparkle:channel>
+      <enclosure url="https://github.com/zxc123456616/shuki-releases/releases/download/v0.2.2/Shuki-0.2.2.dmg" sparkle:version="134" sparkle:shortVersionString="0.2.2" sparkle:edSignature="sparkle:edSignature=hyO/cvpurEwbPjOmf6uvJ+nuSpOKd590K5KeO7a41gXMuj9UNfxEaWP9DaRNYhNLnhohqc3Wz1nZcw0+xW5TAw== length=16861756" length="16861756" type="application/octet-stream" />
+    </item><item>
+      <title>v0.2.2</title>
+      <sparkle:releaseNotesLink>https://zxc123456616.github.io/shuki-releases/release-notes/0.2.2.html</sparkle:releaseNotesLink>
       <pubDate>Fri, 03 Apr 2026 14:53:54 +0000</pubDate>
       <sparkle:channel>beta</sparkle:channel>
       <enclosure url="https://github.com/zxc123456616/shuki-releases/releases/download/v0.2.2/Shuki-0.2.2.dmg" sparkle:version="134" sparkle:shortVersionString="0.2.2" sparkle:edSignature="sparkle:edSignature=3Yuf31Xn5k561KsdDUw/+9L6b8swkRfrhEkiYi9ckNMQtYg33iqYXoRMwVCnR7pdZ7y6W84ZpPpCRVV61sbzAQ== length=16861798" length="16861798" type="application/octet-stream" />
